@@ -1,7 +1,7 @@
 
 # YouTube Age Faker
 
-Spams your watch history to ensure that the new dystopian [age estimator](https://blog.youtube/news-and-events/extending-our-built-in-protections-to-more-teens-on-youtube/) thinks you are an adult.
+Spams your watch history to ensure that the new dystopian thinks you are an adult. [Learn More](https://blog.youtube/news-and-events/extending-our-built-in-protections-to-more-teens-on-youtube/)
 
 <hr>
 
