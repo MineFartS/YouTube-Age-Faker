@@ -17,4 +17,5 @@ Spams your watch history to ensure that the new dystopian [age estimator](https:
 <h2>
      
 `pip install git+https://github.com/MineFartS/YouTube-Age-Faker`
+
 `python -m yt_age_faker setup`
